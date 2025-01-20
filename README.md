@@ -17,3 +17,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak0880&show_icons=true&locale=en" alt="deepak0880" /></p>
 
+
+![snake gif](https://github.com/Deepak0880/Deepak0880/blob/output/github-snake-dark.svg)
+
