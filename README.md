@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="450" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2twYjZmanFwZG5qMDkyMmQxbDQ5dWk5MGRkdnV5bGE1dXUyMDd2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VrtvDMP4ajo5y/giphy.gif">
+<img align="right" width="450" height="650" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2twYjZmanFwZG5qMDkyMmQxbDQ5dWk5MGRkdnV5bGE1dXUyMDd2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VrtvDMP4ajo5y/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak0880&label=Profile%20views&color=0e75b6&style=flat" alt="deepak0880" /> </p>
   
 - 📫 How to reach me **Mottandeepak47@gmail.com**
