@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/deepak-yadav-242b412a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak yadav" height="30" width="40" /></a>
 </p>
-<p align="center">
+<p >
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Deepak0880?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
