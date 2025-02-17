@@ -17,7 +17,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak0880&show_icons=true&locale=en" alt="deepak0880" /></p>
 <p >
-  
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Deepak0880?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
